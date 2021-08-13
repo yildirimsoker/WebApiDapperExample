@@ -10,3 +10,13 @@ Asp.Net Core Wep Api Dapper Example
 - Dependency injection
 - Autofac
 - Dapper
+ 
+# How to Run Project
+- Step 1: Unzip the downloaded folder
+- Step 2: Open WebApiDapperExample.sln file with Visual Studio 2019
+- Step 3: Set as Startup Project "DapperExample.Api"
+- Step 4: Running Create Database Script in Microsoft SQL Server
+  https://github.com/yildirimsoker/WebApiDapperExample/blob/master/DapperExample.Api/DapperDBScript.sql
+
+- Step 5: Update database connection: appsettings.json
+- Step 6: Run the project by pressing Play / Start button
