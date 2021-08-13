@@ -5,7 +5,7 @@ Asp.Net Core Wep Api Dapper Example
 
 # Technical Features
 - Microsoft Visual Studio 2019
-- ASP.NET Core MVC 3.1 
+- .NETCore Web Api 3.1 
 - MS SQL SERVER 2019
 - Dependency injection
 - Autofac
