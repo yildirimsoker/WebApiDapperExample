@@ -8,6 +8,7 @@ Asp.Net Core Wep Api Dapper Example
 - .NETCore Web Api 3.1 
 - MS SQL SERVER 2019
 - Dependency injection
+- C#
 - Autofac
 - Dapper
  
