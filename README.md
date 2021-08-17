@@ -9,7 +9,6 @@ Asp.Net Core Wep Api Dapper Example
 - MS SQL SERVER 2019
 - Dependency injection
 - C#
-- Autofac
 - Dapper
  
 # How to Run Project
